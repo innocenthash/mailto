@@ -1,0 +1,40 @@
+.navbar {
+    background: rgb(60, 255, 0) !important;
+    box-shadow: 10px 0 20px rgb(7, 7, 7);
+}
+
+a:hover {
+    color: black !important;
+}
+
+a {
+    font-size: 20px;
+}
+
+span {
+    font-size: 30px;
+    color: black;
+    font-family: 'Gill Sans';
+}
+
+.jumbotron {
+    text-align: center;
+    padding-top: 200px;
+    margin-top: 200px;
+    width: 100%;
+    box-shadow: 10px 10px 10px 10px black;
+}
+
+p {
+    font-size: 50px;
+    padding-bottom: 100px;
+}
+
+body {
+    /* background-color: rgb(25, 0, 255) !important; */
+    opacity: 90% !important;
+}
+
+p:hover {
+    color: rgb(97, 16, 97);
+}

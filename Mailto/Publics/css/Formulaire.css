@@ -1,0 +1,35 @@
+.was-validated{
+
+margin-top: 150px;
+background-color: rgb(253, 253, 253);
+padding: 10px;
+box-shadow: 10px 0 20px rgb(92, 92, 92);
+
+}
+.body{
+    background-color: rgb(203, 197, 255) !important;
+}
+
+.btn {
+
+background-color: rgb(173, 173, 173) ;
+font-size: 20px;
+font-family: 'Gill Sans';
+}
+#btnseconnect{
+    margin-top: 20px;
+}
+#btnmdp{
+    margin-top: 20px;
+    margin-left: 255px;
+}
+.inscrition{
+    font-size: 40px;
+    font-family: 'Gill Sans';
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.btnseconnect:hover{
+    color:black
+}

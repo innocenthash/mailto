@@ -1,0 +1,66 @@
+.navbar{
+    background-color: rgb(255, 230, 0) !important;
+}
+#dev{
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans';
+}
+#prow1{
+   text-align: center !important;
+   font-size: 50px;
+    
+    border-bottom: 1px solid black;
+}
+#colrow1{
+    
+    margin: auto;
+    
+}
+.col-md-8{
+    height: 1000px;
+    overflow-y: auto;
+  
+}
+.col-md-3{
+    background-color: rgb(255, 230, 0);
+    height: 500px;
+    
+}
+#myadmin{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+ul{
+  list-style-type: none;
+}
+li #a  p{
+   
+   padding-bottom: 5px;
+
+   padding-left: 30px;
+   margin-bottom: 30px;
+  
+   background-color:  rgb(54, 6, 185);;
+   width: 75%;
+   border-radius: 10px 10px 2px 2px;
+}
+li #a:hover p{
+   
+    border-radius: 20px 1px 1px 20px;
+    background-color: rgb(255, 255, 255);
+    width: 110%;
+    box-shadow: 5px 0 10px rgb(92, 92, 92);
+
+}
+#a:hover{
+   
+    color: rgb(2, 2, 2);
+}
+#a{
+    color: white;
+}
+.container-fluid{
+    margin-top: 100px !important;
+}
